@@ -1,0 +1,47 @@
+h1 {
+    color: hsl(109, 100%, 50%);
+    padding-bottom: 11px;
+
+}
+/* title */
+.title {
+    background-color: rgb(0, 0, 0);
+    background-image: url("/img/markus-spiske-iar-afB0QQw-unsplash.jpg");
+    background-size: cover; 
+    /* size for gomo gomo nomi */
+}
+body {
+    background-color: black;
+    background-image: url(/img/iraq_flag.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-position: left top; */
+    background-position: 0px 80px;
+    background-size: 10%;
+    font-family: 'Readex Pro', sans-serif;
+}
+.main_bar {
+    color: hsl(109, 100%, 50%);
+    /* اتجاه الكلام */
+    text-align: right;
+    direction: rtl;
+    font-family: 'Readex Pro', sans-serif;
+
+}
+.video {
+    padding-top: 80px;
+}
+.Contact {
+    color: hsl(109, 100%, 50%);
+    border-color: red blue yellow green;
+    border-width: 3px;
+    border-style: dashed solid dotted inset;
+    padding-left: 36%;
+    margin-top: 15%;
+    /* displayinlineblock */
+}
+/*text-decoration: none; for remove line under link*/
+a {
+    text-decoration: none;
+
+}
