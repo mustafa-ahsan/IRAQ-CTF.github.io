@@ -12,7 +12,7 @@ h1 {
 }
 body {
     background-color: black;
-    background-image: url(/img/iraq_flag.png);
+    background-image: url(/iraq_flag.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     /* background-position: left top; */
